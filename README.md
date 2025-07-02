@@ -1,4 +1,5 @@
 # stock_prediction
+-run the mainchat.py using streamlit mainchat.py
 -Please run the requrirements using pip install "-r requirements.txt"
 -the regression model as there are very less values available(the api key  to retrieve news being a free plan) is irrelevent
 -it contains 4 functions  for stocks
