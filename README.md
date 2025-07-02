@@ -8,3 +8,5 @@ plot a  graph for any time range
 use regression
 -for the moment the api call works well when use stocks like AAPL,PG and markets like NASDAQ,SMP(as its a news that retirves american news)
 -be a bit decritive in you queries example ask it : what is AAPL stock price?,what is the sentiment analysis of AAPL stock price 
+
+![Screenshot]("C:\Users\micke\OneDrive\Desktop\actual chat bot")
